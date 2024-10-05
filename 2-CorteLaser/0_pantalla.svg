@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1133.86 1133.86">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #2d4697;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-3, .cls-4 {
+        stroke-width: .5px;
+      }
+
+      .cls-2 {
+        stroke: #1d1d1b;
+        stroke-width: .25px;
+      }
+
+      .cls-3 {
+        stroke: #9b982d;
+      }
+
+      .cls-4 {
+        stroke: #e52622;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.1, SVG Export Plug-In . SVG Version: 1.2.0 Build 142)  -->
+  <g>
+    <g id="madera">
+      <path class="cls-2" d="M977.57,676.38h-28.29v83.61c0,13.5-11.42,29.72-23.11,36.47l-338.72,197.11c-11.69,6.75-30.78,7.65-42.03,0l-338.72-197.11c-12.13-5.86-22.01-22.97-22.01-36.47v-83.61h-29.06v-228.12h28.18v-83.61c0-13.5,11.42-29.72,23.12-36.47l338.71-197.11c11.69-6.75,30.78-7.64,42.03,0l338.72,197.11c12.14,5.86,22.01,22.97,22.01,36.47v83.61h29.17v228.12Z"/>
+    </g>
+    <g id="imanes">
+      <circle class="cls-4" cx="212.32" cy="369.56" r="15.59"/>
+      <circle class="cls-4" cx="920.98" cy="369.56" r="15.59"/>
+      <circle class="cls-4" cx="212.32" cy="755.07" r="15.59"/>
+      <circle class="cls-4" cx="920.98" cy="755.07" r="15.59"/>
+      <circle class="cls-4" cx="566.65" cy="159.8" r="15.59"/>
+      <circle class="cls-4" cx="566.65" cy="964.84" r="15.59"/>
+      <g>
+        <circle class="cls-3" cx="245.13" cy="348.67" r="5.67"/>
+        <circle class="cls-3" cx="245.13" cy="776.22" r="5.67"/>
+        <circle class="cls-3" cx="888.42" cy="348.67" r="5.67"/>
+        <circle class="cls-3" cx="888.42" cy="776.22" r="5.67"/>
+      </g>
+      <rect class="cls-1" x="247.75" y="375.23" width="637.8" height="374.17"/>
+    </g>
+  </g>
+</svg>
