@@ -27,6 +27,20 @@ A maioria dos elementos foron impresos en 3d, dende as bases con PLA negro e as 
 
 Para o deseño das pcbs, usamos o kicad, facendo unha sinxela placa cun Atiny412, dos saidas para duas tiras leds, toma de corrente e I2C, así como pin para programalos por UPDI
 
+# Lista de materiais BOM
+
+- Placas de Circuito de PCB **FR1** [Amazon](https://www.amazon.es/dp/B087M1GDCP?psc=1&smid=A839N7HCQOMKL&ref_=chk_typ_imgToDp)
+- Fresa 0.4 End Mill -> 1/32 -> 0,4 MM -> TRACES [Aliexpress](https://es.aliexpress.com/item/32914096470.html?spm=a2g0o.order_list.0.0.19bb194dGODsyC&gatewayAdapt=glo2esp)
+- Fresa 0.8 End Mill -> 1/64 -> 0,8 MM -> CUT [Aliexpress](https://es.aliexpress.com/item/32914096470.html?spm=a2g0o.order_list.0.0.19bb194dGODsyC&gatewayAdapt=glo2esp)
+
+| Compoñente | Unidades | Código | Tenda | Footprint |
+| ----- | ---- | ---- | ---- | ---- |
+| ATtiny412 | 1 | ATTINY412-SSF-ND | [Digikey](https://www.digikey.es/en/products/detail/microchip-technology/ATTINY412-SSF/9947539) | SOIC-8_3.9x4.9mm_P1.27mm |
+| Cap 10 uF | 1 | GRT31CC8YA106ME01L | [Digikey](https://www.digikey.es/en/products/detail/murata-electronics/GRT31CC8YA106ME01L/5416847) | C_1206 |
+| Res 499 Ohms | 1 | RC1206FR-07499RL | [Digikey](https://www.digikey.es/en/products/detail/yageo/RC1206FR-07499RL/728944) | R_1206 |
+| LED RED | 1 | 1516-1076-1-ND  | [Digikey](https://www.digikey.es/es/products/detail/qt-brightek-qtb/QBLP615-R/4814674) | LED_1206 |
+| Connector 1x03_P2.54mm_Horizontal | 3 | S1143E-36-ND  | [Digikey](https://www.digikey.es/es/products/detail/sullins-connector-solutions/GBC36SGSN-M89/862355) | PinHeader_1x03_P2.54mm_Horizontal_SMD |
+
 <img src="./images/ATtiny_x12.jpg" width="1000" />
 
 <img src="./images/KiCad_sch.png" width="1000" />
@@ -54,3 +68,9 @@ Unha vez fabricado o primeiro prototipo, mediante Arduino IDE empezamos a progra
 Con corte laser cortamos o panel en chopo de 3mm.
 
 <img src="./images/AIndustriosa2.jpg" width="1000" />
+
+<img src="./images/Branding.jpg" width="1000" />
+
+<img src="./images/amtega.jpg" width="1000" />
+
+<b>Proxecto patrocinado por Xunta de Galicia e Amtega Axencia para a Modernización Tecnolóxica</b>
