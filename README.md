@@ -27,16 +27,16 @@ A maioria dos elementos foron impresos en 3d, dende as bases con PLA negro e as 
 
 Para o deseño das pcbs, usamos o kicad, facendo unha sinxela placa cun Atiny412, dos saidas para duas tiras leds, toma de corrente e I2C, así como pin para programalos por UPDI
 
-<img src="./images/KiCad_sch.jpg" width="1000" />
+<img src="./images/KiCad_sch.png" width="1000" />
 
-<img src="./images/KiCad_pcb.jpg" width="1000" />
+<img src="./images/KiCad_pcb.png" width="1000" />
 
 Unha vez tiñamos o deseño da PCB exportamos a SVG a capa frontal e a capa de corte, para mediante GIMP xerar os png para facer of gcode con <a href="https://modsproject.org" target="_blank">ModsProject</a>.
 
-<img src="./images/mods.jpg" width="1000" />
+<img src="./images/mods.png" width="1000" />
 
-<img src="./images/mods_3d.jpg" width="1000" />
+<img src="./images/mods_3d.png" width="1000" />
 
 Unha vez xerados os gcode, nunha CNC 3018 da asociación, usando o <a href="https://winder.github.io/ugs_website/" target="_blank">UGS</a> fresamos as placas.
 
-<img src="./images/PCB.jpg" width="1000" />
+<img src="./images/PCB.png" width="1000" />
