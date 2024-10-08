@@ -27,7 +27,7 @@ A maioria dos elementos foron impresos en 3d, dende as bases con PLA negro e as 
 
 Para o deseño das pcbs, usamos o kicad, facendo unha sinxela placa cun Atiny412, dos saidas para duas tiras leds, toma de corrente e I2C, así como pin para programalos por UPDI
 
-<img src="./images/ATtiny_x12.gif" width="1000" />
+<img src="./images/ATtiny_x12.jpg" width="1000" />
 
 <img src="./images/KiCad_sch.png" width="1000" />
 
