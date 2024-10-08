@@ -41,6 +41,6 @@ Unha vez xerados os gcode, nunha CNC 3018 da asociación, usando o <a href="http
 
 <img src="./images/PCB2.jpg" width="1000" />
 
-<img src="./images/PCB3.jpg" width="1000" />
+<img src="./images/PCB4.jpg" width="1000" />
 
 <img src="./images/PCB.jpg" width="1000" />
