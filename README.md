@@ -31,6 +31,12 @@ Para o deseño das pcbs, usamos o kicad, facendo unha sinxela placa cun Atiny412
 
 <img src="./images/KiCad_pcb.jpg" width="1000" />
 
-Mediante 
+Unha vez tiñamos o deseño da PCB exportamos a SVG a capa frontal e a capa de corte, para mediante GIMP xerar os png para facer of gcode con <a href="https://modsproject.org" target="_blank">ModsProject</a>.
+
+<img src="./images/mods.jpg" width="1000" />
+
+<img src="./images/mods_3d.jpg" width="1000" />
+
+Unha vez xerados os gcode, nunha CNC 3018 da asociación, usando o <a href="https://winder.github.io/ugs_website/" target="_blank">UGS</a> fresamos as placas.
 
 <img src="./images/PCB.jpg" width="1000" />
