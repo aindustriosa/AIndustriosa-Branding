@@ -39,4 +39,4 @@ Unha vez tiñamos o deseño da PCB exportamos a SVG a capa frontal e a capa de c
 
 Unha vez xerados os gcode, nunha CNC 3018 da asociación, usando o <a href="https://winder.github.io/ugs_website/" target="_blank">UGS</a> fresamos as placas.
 
-<img src="./images/PCB.png" width="1000" />
+<img src="./images/PCB.jpg" width="1000" />
