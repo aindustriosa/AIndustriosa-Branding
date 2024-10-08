@@ -27,6 +27,8 @@ A maioria dos elementos foron impresos en 3d, dende as bases con PLA negro e as 
 
 Para o deseño das pcbs, usamos o kicad, facendo unha sinxela placa cun Atiny412, dos saidas para duas tiras leds, toma de corrente e I2C, así como pin para programalos por UPDI
 
+<img src="./images/ATtiny_x12.gif" width="1000" />
+
 <img src="./images/KiCad_sch.png" width="1000" />
 
 <img src="./images/KiCad_pcb.png" width="1000" />
@@ -46,3 +48,5 @@ Unha vez xerados os gcode, nunha CNC 3018 da asociación, usando o <a href="http
 <img src="./images/PCB.jpg" width="1000" />
 
 <img src="./images/AIndustriosa1.jpg" width="1000" />
+
+Unha vez fabricado o primeiro prototipo, mediante Arduino IDE empezamos a programar o funcionamento los LEDs. Debido o limite de memoria para usar más de 50 led, fixemos no código duas funcións onde despois de encender unha tira dun pin, liberamos a memoria, para encender os outros leds.
