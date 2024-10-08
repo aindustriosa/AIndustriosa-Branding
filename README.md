@@ -37,6 +37,7 @@ Para o deseño das pcbs, usamos o kicad, facendo unha sinxela placa cun Atiny412
 | ----- | ---- | ---- | ---- | ---- |
 | ATtiny412 | 1 | ATTINY412-SSF-ND | [Digikey](https://www.digikey.es/en/products/detail/microchip-technology/ATTINY412-SSF/9947539) | SOIC-8_3.9x4.9mm_P1.27mm |
 | Cap 10 uF | 1 | GRT31CC8YA106ME01L | [Digikey](https://www.digikey.es/en/products/detail/murata-electronics/GRT31CC8YA106ME01L/5416847) | C_1206 |
+| Res 0 Ohms | 1 | RC1206FR-070RL | [Digikey](https://www.digikey.com/en/products/detail/yageo/RC1206FR-070RL/5698945) | R_1206 |
 | Res 499 Ohms | 1 | RC1206FR-07499RL | [Digikey](https://www.digikey.es/en/products/detail/yageo/RC1206FR-07499RL/728944) | R_1206 |
 | LED RED | 1 | 1516-1076-1-ND  | [Digikey](https://www.digikey.es/es/products/detail/qt-brightek-qtb/QBLP615-R/4814674) | LED_1206 |
 | Connector 1x03_P2.54mm_Horizontal | 3 | S1143E-36-ND  | [Digikey](https://www.digikey.es/es/products/detail/sullins-connector-solutions/GBC36SGSN-M89/862355) | PinHeader_1x03_P2.54mm_Horizontal_SMD |
