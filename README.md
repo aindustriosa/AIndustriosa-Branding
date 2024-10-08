@@ -50,3 +50,7 @@ Unha vez xerados os gcode, nunha CNC 3018 da asociación, usando o <a href="http
 <img src="./images/AIndustriosa1.jpg" width="1000" />
 
 Unha vez fabricado o primeiro prototipo, mediante Arduino IDE empezamos a programar o funcionamento los LEDs. Debido o limite de memoria para usar más de 50 led, fixemos no código duas funcións onde despois de encender unha tira dun pin, liberamos a memoria, para encender os outros leds.
+
+Con corte laser cortamos o panel en chopo de 3mm.
+
+<img src="./images/AIndustriosa2.jpg" width="1000" />
