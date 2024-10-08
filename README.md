@@ -41,6 +41,7 @@ Para o deseño das pcbs, usamos o kicad, facendo unha sinxela placa cun Atiny412
 | Res 499 Ohms | 1 | RC1206FR-07499RL | [Digikey](https://www.digikey.es/en/products/detail/yageo/RC1206FR-07499RL/728944) | R_1206 |
 | LED RED | 1 | 1516-1076-1-ND  | [Digikey](https://www.digikey.es/es/products/detail/qt-brightek-qtb/QBLP615-R/4814674) | LED_1206 |
 | Connector 1x03_P2.54mm_Horizontal | 3 | S1143E-36-ND  | [Digikey](https://www.digikey.es/es/products/detail/sullins-connector-solutions/GBC36SGSN-M89/862355) | PinHeader_1x03_P2.54mm_Horizontal_SMD |
+| Connector 2x10_P2.54mm_Vertical | 3 | 20021121-00010T1LF  | [Digikey](https://www.digikey.es/en/products/detail/amphenol-icc-fci/20021121-00010T1LF/4243614) | PinHeader_1x03_P2.54mm_Horizontal_SMD |
 
 <img src="./images/ATtiny_x12.jpg" width="1000" />
 
@@ -64,7 +65,11 @@ Unha vez xerados os gcode, nunha CNC 3018 da asociación, usando o <a href="http
 
 <img src="./images/AIndustriosa1.jpg" width="1000" />
 
-Unha vez fabricado o primeiro prototipo, mediante Arduino IDE empezamos a programar o funcionamento los LEDs. Debido o limite de memoria para usar más de 50 led, fixemos no código duas funcións onde despois de encender unha tira dun pin, liberamos a memoria, para encender os outros leds.
+Unha vez fabricado o primeiro prototipo, mediante Arduino IDE empezamos a programar o funcionamento los LEDs. 
+
+Para programar o Atiny412 a libraría <a href="https://github.com/SpenceKonde/megaTinyCore" target="_blank">megaTinyCore</a>, que inclue control de <a href="https://github.com/SpenceKonde/megaTinyCore/blob/master/megaavr/extras/tinyNeoPixel.md" target="_blank">NeoPixel</a>
+
+Debido o limite de memoria para usar más de 50 led, fixemos no código duas funcións onde despois de encender unha tira dun pin, liberamos a memoria, para encender os outros leds.
 
 Con corte laser cortamos o panel en chopo de 3mm.
 
